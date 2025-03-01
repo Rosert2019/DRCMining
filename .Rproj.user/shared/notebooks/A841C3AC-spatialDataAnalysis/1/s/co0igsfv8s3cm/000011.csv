@@ -1,0 +1,15 @@
+"0","dataIPIS$id <-rep(""Hotspot"",dim(dataIPIS)[1])"
+"0","head(dataIPIS[,""id""])"
+"1","Simple feature collection with 6 features and 1 field"
+"1","
+"
+"1","Geometry type: POINT
+"
+"1","Dimension:     XY
+"
+"1","Bounding box:  "
+"1","xmin: 29.64494 ymin: 0.956 xmax: 29.72741 ymax: 1.39528"
+"1","
+"
+"1","Geodetic CRS:  WGS 84
+"

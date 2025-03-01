@@ -1,0 +1,5 @@
+"0",""
+"0","ggplot(territories) +"
+"0","  geom_sf(fill = ""#a0a0a0"", color = ""white"") + geom_sf_text(aes(label = NOM), colour = ""black"") +"
+"0","    geom_raster(data =  as.data.frame(kde, xy = TRUE), aes(x = x, y = y, fill = Hotspot)) + "
+"0","  theme_void()"

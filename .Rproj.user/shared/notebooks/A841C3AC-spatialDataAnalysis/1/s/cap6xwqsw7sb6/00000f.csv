@@ -1,0 +1,1 @@
+"0","aggregate(territories[, c('meanWorkers_numb', 'sumWorkers_numb', 'sumIs_3t_mine', 'sumIs_gold_mine', 'SumPresence', 'idCluster')]%>% st_drop_geometry(), list(territories$idCluster), mean)"

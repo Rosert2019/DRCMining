@@ -1,0 +1,7 @@
+"0","pixels <- SpatialPixelsDataFrame(spg, tolerance = 0.760784, spg@data)"
+"0","rasterPredicted <- raster(pixels[,'prediction'])"
+"0",""
+"0","projection(rasterPredicted) <- CRS(proj4string(dataIPIS))"
+"2","Erreur dans (function (classes, fdef, mtable)  : 
+  impossible de trouver une méthode héritée pour la fonction ‘proj4string’ pour la signature ‘""sf""’
+"

@@ -1,0 +1,3 @@
+"0","gwrModel = gwr(meanWorkers_numb ~ sumIs_3t_mine + "
+"0","    sumIs_gold_mine + SumPresence, data=latlon, adapt=GWRbandwidth,coords=st_coordinates(sf_cent), hatmatrix=TRUE, se.fit=TRUE)"
+"0",""

@@ -1,0 +1,10 @@
+"0","tm_raster(""Hotspot"", style = ""quantile"",
+n = 100,
+legend.show = FALSE,
+palette = ""Reds"") +
+tm_shape(territories) + tm_borders(alpha=.3, col = ""blue"") +
+tm_layout(frame = TRUE)+ tm_text(""NOM"", col = ""yellow"", size = .50)
+"
+"2","Erreur dans tm_raster(""Hotspot"", style = ""quantile"", n = 100, legend.show = FALSE,  : 
+  impossible de trouver la fonction ""tm_raster""
+"

@@ -1,0 +1,4 @@
+"0","moran.test(territories$sumPresence, listw, zero.policy=TRUE)"
+"2","Erreur dans moran.test(territories$sumPresence, listw, zero.policy = TRUE) : 
+  territories$sumPresence is not a numeric vector
+"

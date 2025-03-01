@@ -1,0 +1,5 @@
+"0"," st_as_sf(trainSet_temp  , coords = st_centroid(trainSet)$geometry)
+"
+"2","Avis : st_centroid assumes attributes are constant over geometries"
+"2","Erreur dans `[.default`(x, coords) : type 'list' d'indice incorrect
+"

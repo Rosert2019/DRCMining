@@ -1,0 +1,4 @@
+"0","# runs the idw for the Price variable of House.Points"
+"0","idw <- idw(trainSet$meanWorkers_numb ~ 1, locations = trainSet, newdata= testingSet)"
+"1","[inverse distance weighted interpolation]
+"

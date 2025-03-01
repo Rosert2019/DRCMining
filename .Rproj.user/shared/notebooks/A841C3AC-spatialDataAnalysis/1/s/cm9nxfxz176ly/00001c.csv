@@ -1,0 +1,7 @@
+"0","library(raster)"
+"0","kde <- raster(pixelkernel)"
+"0",""
+"0","projection(kde) <- CRS(proj4string(dataIPIS_sp))"
+"0",""
+"0","ggplot(data =  as.data.frame(kde, xy = TRUE)) +"
+"0","    geom_raster(aes(x = x, y = y, fill = Hotspot)) "

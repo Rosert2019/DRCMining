@@ -1,0 +1,3 @@
+"0","idwPredict = as.data.frame(idw)"
+"0","names(idwPredict)[1:3] <- c(""long"", ""lat"", ""prediction"")"
+"0","idwPredict <-subset(idwPredict, select=-var1.var)"

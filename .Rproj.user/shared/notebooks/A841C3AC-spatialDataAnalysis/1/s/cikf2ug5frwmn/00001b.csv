@@ -1,0 +1,5 @@
+"0","library(geojsonio)"
+"0","library(adehabitatHR)"
+"0","dataIPIS_sp <- geojson_read('cod_mines_curated_all_opendata_p_ipis.geojson', what='sp') "
+"0","dataIPIS_sp$id <-rep(""Hotspot"",dim(dataIPIS_sp)[1])"
+"0","head(dataIPIS_sp[,""id""])"

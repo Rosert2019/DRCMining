@@ -1,0 +1,22 @@
+"0","library(tmap)"
+"2","Avis : le package ‘tmap’ a été compilé avec la version R 4.3.3"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","The legacy packages maptools, rgdal, and rgeos, underpinning the sp package,
+which was just loaded, will retire in October 2023.
+Please refer to R-spatial evolution reports for details, especially
+https://r-spatial.org/r/2023/05/15/evolution4.html.
+It may be desirable to make the sf package available;
+package maintainers should consider adding sf to Suggests:.
+The sp package is now running under evolution status 2
+     (status 2 uses the sf package in place of rgdal)
+"
+"0","qtm(gwrMap, fill = ""localR2"")"
+"2","Erreur dans FUN(X[[i]], ...) : objet 'gwrMap' introuvable
+"

@@ -1,0 +1,1 @@
+"0","dataIPIS <-subset(dataIPIS, !is.na(visit_date) & !is.na(workers_numb)& !is.na(is_3t_mine)& !is.na(is_gold_mine)& !is.na(presence) )"

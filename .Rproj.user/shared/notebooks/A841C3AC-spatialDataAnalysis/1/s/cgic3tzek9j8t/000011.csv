@@ -1,0 +1,2 @@
+"0","plot.nb(neighbours, st_geometry(territories), add = TRUE)"
+"2","Avis : st_point_on_surface may not give correct results for longitude/latitude data"

@@ -1,0 +1,13 @@
+name: ProjetDRCMining
+title: ProjetDRCMining
+username: tdjonga
+account: tdjonga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14043024
+bundleId: 9825364
+url: https://tdjonga.shinyapps.io/ProjetDRCMining/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/zaire.JPG

@@ -1,0 +1,3 @@
+"0","kriging = autoKrige(meanWorkers_numb ~ 1, trainSet.pts, testingSet.pts)"
+"2","Erreur : objet 'trainSet.pts' introuvable
+"

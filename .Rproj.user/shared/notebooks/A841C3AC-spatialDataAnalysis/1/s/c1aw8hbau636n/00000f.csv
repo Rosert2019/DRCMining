@@ -1,0 +1,1 @@
+"0","territories <-territories %>% filter( !is.na(meanWorkers_numb) & !is.na(sumIs_3t_mine)& !is.na(sumIs_gold_mine))"

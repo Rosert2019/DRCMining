@@ -1,0 +1,2 @@
+"0","spg <- idwPredict"
+"0","coordinates(spg) <- ~ long + lat"

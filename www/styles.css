@@ -1,0 +1,17 @@
+.toprow { 
+   margin: 60px 0px; 
+   padding: 30px; 
+   background-color: #f6f221;
+   }
+
+
+.body{
+  background-color: #f2efe9;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2,b{
+	font-weight: bold;
+	text-align: center;
+}
+

@@ -1,0 +1,7 @@
+"0","tm_shape(territories) + tm_polygons(col=""blue"", border.col=""yellow"") + tm_text(""NOM"", col = ""red"", size = .30)"
+"2","
+"
+"2","[36m──[39m [1mtmap v3 code detected[22m [36m──────────────────────────────────────────────────────────────────────────────────────────[39m
+"
+"2","[38;5;232m[32m[v3->v4][38;5;232m `tm_polygons()`: use 'fill' for the fill color of polygons/symbols (instead of 'col'), and 'col' for the
+outlines (instead of 'border.col').[39m"

@@ -1,0 +1,4 @@
+"0",""
+"0","ggplot(data =  as.data.frame(kde, xy = TRUE)) +"
+"0","    geom_raster(aes(x = x, y = y, fill = Hotspot)) +"
+"0","     geom_sf(data = territories,  aes(label = NOM)) + scale_fill_viridis()  "

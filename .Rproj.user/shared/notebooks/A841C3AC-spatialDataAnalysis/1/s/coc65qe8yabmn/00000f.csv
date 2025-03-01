@@ -1,0 +1,19 @@
+"0"," get_largest_value(mines_data_grouped, 'NOM', 'sumIs_3t_mine')"
+"2","Avis : Using an external vector in selections was deprecated in tidyselect 1.1.0.
+Please use `all_of()` or `any_of()` instead.
+# Was:
+data %>% select(var1)
+
+# Now:
+data %>% select(all_of(var1))
+
+See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>."
+"2","Avis : Using an external vector in selections was deprecated in tidyselect 1.1.0.
+Please use `all_of()` or `any_of()` instead.
+# Was:
+data %>% select(var2)
+
+# Now:
+data %>% select(all_of(var2))
+
+See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>."

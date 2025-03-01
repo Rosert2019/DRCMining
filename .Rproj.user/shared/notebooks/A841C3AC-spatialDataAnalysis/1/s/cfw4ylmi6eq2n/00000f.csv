@@ -1,0 +1,19 @@
+"0",""
+"0","dataIPIS <-dataIPIS %>%"
+"0","           arrange(pcode, desc(visit_date)) %>%"
+"0","           group_by(pcode) %>%"
+"0","           slice(1)"
+"0","head(dataIPIS)"
+"1","Simple feature collection with 6 features and 6 fields"
+"1","
+"
+"1","Geometry type: POINT
+"
+"1","Dimension:     XY
+"
+"1","Bounding box:  "
+"1","xmin: 29.64494 ymin: 0.956 xmax: 29.72741 ymax: 1.39528"
+"1","
+"
+"1","Geodetic CRS:  WGS 84
+"

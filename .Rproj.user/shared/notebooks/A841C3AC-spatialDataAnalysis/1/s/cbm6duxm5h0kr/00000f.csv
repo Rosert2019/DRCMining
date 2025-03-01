@@ -1,0 +1,2 @@
+"0","resultsLocal <-as.data.frame(gwrModel$SDF)"
+"0","gwrMap <- cbind(latlon, as.matrix(resultsLocal))"

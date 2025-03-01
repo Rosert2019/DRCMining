@@ -1,0 +1,4 @@
+"0","# maps the masked raster"
+"0","masked_kde <- mask(kde, territories)"
+"0","ggplot(data =  as.data.frame(masked_kde, xy = TRUE)) +"
+"0","    geom_raster(aes(x = x, y = y, fill = Hotspot)) "
